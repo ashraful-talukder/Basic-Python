@@ -1,2 +1,1 @@
-# Basic-python
-This is the basic python syntax
+<h1 align = "center">Basic Python</h1>
